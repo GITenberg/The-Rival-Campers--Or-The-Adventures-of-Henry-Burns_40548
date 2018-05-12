@@ -1,0 +1,34 @@
+_repo: The-Rival-Campers--Or-The-Adventures-of-Henry-Burns_40548
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Shute, A. B.
+    alias: Shute, A. Burnham
+    deathdate: 1906
+    gutenberg_agent_id: '26350'
+    url: http://www.gutenberg.org/2009/agents/26350
+covers:
+- cover_type: archival
+  image_path: 40548-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, Ruel Perley
+    birthdate: 1869
+    deathdate: 1937
+    gutenberg_agent_id: '33372'
+    url: http://www.gutenberg.org/2009/agents/33372
+description: ''
+gutenberg_issued: '2012-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Boats and boating -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Rival Campers; Or, The Adventures of Henry Burns
+url: http://www.gutenberg.org/ebooks/40548
